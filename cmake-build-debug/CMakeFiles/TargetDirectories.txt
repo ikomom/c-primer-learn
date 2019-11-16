@@ -1,0 +1,3 @@
+D:/project/c++ primer learn/cmake-build-debug/CMakeFiles/c___primer_learn.dir
+D:/project/c++ primer learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/c++ primer learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
