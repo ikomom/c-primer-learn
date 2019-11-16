@@ -1,4 +1,4 @@
-"D:\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\project\c++ primer learn"
+"D:\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\ProjectSet\C++ Project\c++ primer learn"
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/project/c++ primer learn/cmake-build-debug
+-- Build files have been written to: D:/ProjectSet/C++ Project/c++ primer learn/cmake-build-debug

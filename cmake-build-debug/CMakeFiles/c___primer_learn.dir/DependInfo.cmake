@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/project/c++ primer learn/2/arithmetic_type.cpp" "D:/project/c++ primer learn/cmake-build-debug/CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj"
+  "D:/ProjectSet/C++ Project/c++ primer learn/2/arithmetic_type.cpp" "D:/ProjectSet/C++ Project/c++ primer learn/cmake-build-debug/CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
