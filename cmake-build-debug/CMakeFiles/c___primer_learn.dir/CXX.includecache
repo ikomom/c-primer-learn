@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/ProjectSet/C++ Project/c++ primer learn/2/arithmetic_type.cpp
+D:/ProjectSet/C++ Project/c++ primer learn/2/variable.cpp
 iostream
--
-limits
--
-cstdio
 -
 

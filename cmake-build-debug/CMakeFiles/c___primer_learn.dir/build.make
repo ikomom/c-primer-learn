@@ -56,27 +56,27 @@ include CMakeFiles/c___primer_learn.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/c___primer_learn.dir/flags.make
 
-CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj: CMakeFiles/c___primer_learn.dir/flags.make
-CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj: ../2/arithmetic_type.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\ProjectSet\C++ Project\c++ primer learn\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj"
-	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\c___primer_learn.dir\2\arithmetic_type.cpp.obj -c "D:\ProjectSet\C++ Project\c++ primer learn\2\arithmetic_type.cpp"
+CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj: CMakeFiles/c___primer_learn.dir/flags.make
+CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj: ../2/variable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\ProjectSet\C++ Project\c++ primer learn\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj"
+	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\c___primer_learn.dir\2\variable.cpp.obj -c "D:\ProjectSet\C++ Project\c++ primer learn\2\variable.cpp"
 
-CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\ProjectSet\C++ Project\c++ primer learn\2\arithmetic_type.cpp" > CMakeFiles\c___primer_learn.dir\2\arithmetic_type.cpp.i
+CMakeFiles/c___primer_learn.dir/2/variable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c___primer_learn.dir/2/variable.cpp.i"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\ProjectSet\C++ Project\c++ primer learn\2\variable.cpp" > CMakeFiles\c___primer_learn.dir\2\variable.cpp.i
 
-CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\ProjectSet\C++ Project\c++ primer learn\2\arithmetic_type.cpp" -o CMakeFiles\c___primer_learn.dir\2\arithmetic_type.cpp.s
+CMakeFiles/c___primer_learn.dir/2/variable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c___primer_learn.dir/2/variable.cpp.s"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\ProjectSet\C++ Project\c++ primer learn\2\variable.cpp" -o CMakeFiles\c___primer_learn.dir\2\variable.cpp.s
 
 # Object files for target c___primer_learn
 c___primer_learn_OBJECTS = \
-"CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj"
+"CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj"
 
 # External object files for target c___primer_learn
 c___primer_learn_EXTERNAL_OBJECTS =
 
-c___primer_learn.exe: CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj
+c___primer_learn.exe: CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj
 c___primer_learn.exe: CMakeFiles/c___primer_learn.dir/build.make
 c___primer_learn.exe: CMakeFiles/c___primer_learn.dir/linklibs.rsp
 c___primer_learn.exe: CMakeFiles/c___primer_learn.dir/objects1.rsp

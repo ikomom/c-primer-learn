@@ -122,32 +122,32 @@ c___primer_learn/fast:
 	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/build
 .PHONY : c___primer_learn/fast
 
-2/arithmetic_type.obj: 2/arithmetic_type.cpp.obj
+2/variable.obj: 2/variable.cpp.obj
 
-.PHONY : 2/arithmetic_type.obj
+.PHONY : 2/variable.obj
 
 # target to build an object file
-2/arithmetic_type.cpp.obj:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.obj
-.PHONY : 2/arithmetic_type.cpp.obj
+2/variable.cpp.obj:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj
+.PHONY : 2/variable.cpp.obj
 
-2/arithmetic_type.i: 2/arithmetic_type.cpp.i
+2/variable.i: 2/variable.cpp.i
 
-.PHONY : 2/arithmetic_type.i
+.PHONY : 2/variable.i
 
 # target to preprocess a source file
-2/arithmetic_type.cpp.i:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.i
-.PHONY : 2/arithmetic_type.cpp.i
+2/variable.cpp.i:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.i
+.PHONY : 2/variable.cpp.i
 
-2/arithmetic_type.s: 2/arithmetic_type.cpp.s
+2/variable.s: 2/variable.cpp.s
 
-.PHONY : 2/arithmetic_type.s
+.PHONY : 2/variable.s
 
 # target to generate assembly for a file
-2/arithmetic_type.cpp.s:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/arithmetic_type.cpp.s
-.PHONY : 2/arithmetic_type.cpp.s
+2/variable.cpp.s:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.s
+.PHONY : 2/variable.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... c___primer_learn
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 2/arithmetic_type.obj
-	@echo ... 2/arithmetic_type.i
-	@echo ... 2/arithmetic_type.s
+	@echo ... 2/variable.obj
+	@echo ... 2/variable.i
+	@echo ... 2/variable.s
 .PHONY : help
 
 

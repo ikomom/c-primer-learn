@@ -53,6 +53,11 @@ int main() {
     std::cout << i - u << std::endl;
     std::cout << i3 * u << std::endl;
     std::cout << u - i2 << std::endl;
-
+    float f = 11E+5F;
+    std::cout << f << std::endl;
+    float  t = 10.;
+    std::cout << t << std::endl;
+    wchar_t  wx = L'A'; //这个就是定义了一个宽字符常量，并用A来初始化它。
+    wchar_t wstr[] = L"I love U"; //这个是定义了一个宽字符的数组。
     return 0;
 }
