@@ -11,4 +11,5 @@ set(CMAKE_CXX_STANDARD 14)
 # 2
 #add_executable(c___primer_learn 2/arithmetic_type.cpp)
 #add_executable(c___primer_learn 2/escape_sequence.cpp)
-add_executable(c___primer_learn 2/variable.cpp)
+#add_executable(c___primer_learn 2/variable.cpp)
+add_executable(c___primer_learn 2/pointer.cpp)

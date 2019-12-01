@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/ProjectSet/C++ Project/c++ primer learn/2/variable.cpp">
+		<Unit filename="D:/ProjectSet/C++ Project/c++ primer learn/2/pointer.cpp">
 			<Option target="c___primer_learn"/>
 		</Unit>
 		<Unit filename="D:/ProjectSet/C++ Project/c++ primer learn/CMakeLists.txt">

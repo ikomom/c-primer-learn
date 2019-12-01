@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj"
+  "CMakeFiles/c___primer_learn.dir/2/pointer.cpp.obj"
   "c___primer_learn.exe"
   "c___primer_learn.exe.manifest"
   "c___primer_learn.pdb"

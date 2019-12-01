@@ -2,10 +2,24 @@
 // Created by 31579 on 2019/11/17.
 //
 #include <iostream>
-extern int bo;
+
+using namespace std;
 
 int main() {
-    std::cout << bo << std::endl;
+    int a = 2;
+    int  &ref = a;
+    int  r = a;
+    cout<<ref<<endl;
+    cout<<r<<endl;
+    int test, &ll = test;
+    int &t = test;
+    test = 1;
+    ll = 10;
+
+    cout<<test<<endl;
+    cout<<ll<<endl;
+
+
 
 //    std::string book("This a book string!!");
 //    std::string book1{"This a book string!!"};

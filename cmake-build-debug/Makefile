@@ -122,32 +122,32 @@ c___primer_learn/fast:
 	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/build
 .PHONY : c___primer_learn/fast
 
-2/variable.obj: 2/variable.cpp.obj
+2/pointer.obj: 2/pointer.cpp.obj
 
-.PHONY : 2/variable.obj
+.PHONY : 2/pointer.obj
 
 # target to build an object file
-2/variable.cpp.obj:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.obj
-.PHONY : 2/variable.cpp.obj
+2/pointer.cpp.obj:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/pointer.cpp.obj
+.PHONY : 2/pointer.cpp.obj
 
-2/variable.i: 2/variable.cpp.i
+2/pointer.i: 2/pointer.cpp.i
 
-.PHONY : 2/variable.i
+.PHONY : 2/pointer.i
 
 # target to preprocess a source file
-2/variable.cpp.i:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.i
-.PHONY : 2/variable.cpp.i
+2/pointer.cpp.i:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/pointer.cpp.i
+.PHONY : 2/pointer.cpp.i
 
-2/variable.s: 2/variable.cpp.s
+2/pointer.s: 2/pointer.cpp.s
 
-.PHONY : 2/variable.s
+.PHONY : 2/pointer.s
 
 # target to generate assembly for a file
-2/variable.cpp.s:
-	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/variable.cpp.s
-.PHONY : 2/variable.cpp.s
+2/pointer.cpp.s:
+	$(MAKE) -f CMakeFiles\c___primer_learn.dir\build.make CMakeFiles/c___primer_learn.dir/2/pointer.cpp.s
+.PHONY : 2/pointer.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... c___primer_learn
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 2/variable.obj
-	@echo ... 2/variable.i
-	@echo ... 2/variable.s
+	@echo ... 2/pointer.obj
+	@echo ... 2/pointer.i
+	@echo ... 2/pointer.s
 .PHONY : help
 
 
